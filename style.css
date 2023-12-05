@@ -105,6 +105,8 @@ header.shadow {
 }
 .home-img img {
   width: 100%;
+  border-radius: 155px;
+  margin-top: 103px;
 }
 .home-text span {
   font-size: var(--medium-font);
@@ -433,6 +435,7 @@ form textarea {
   .home-img {
     order: initial;
   }
+  
   .about-container {
     grid-template-columns: 1fr;
   }
